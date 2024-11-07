@@ -16,7 +16,7 @@ public class ClienteServicio {
     
     public void conectarServidor(int puerto, String direccionIp){
 
-        manejadorAccionesCliente.connectToServer(puerto, direccionIp);
+        manejadorAccionesCliente.conectarAlServidor(puerto, direccionIp);
         
     }
 
