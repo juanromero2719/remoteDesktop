@@ -33,5 +33,4 @@ public class ServidorConexion {
         return socket;
     }
 
-    // Método enviarEvento puede permanecer igual
 }
